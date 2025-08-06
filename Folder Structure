@@ -1,0 +1,6 @@
+LoginApp/
+├── app.py
+├── init_db.py
+├── users.db         ← (generated after running init_db.py)
+├── templates/
+│   └── login.html
