@@ -1,0 +1,23 @@
+✅ How to Run the Project
+Open terminal in the LoginApp folder.
+
+Run this to install Flask if not installed:
+
+bash:
+pip install flask
+
+Initialize the database:
+python init_db.py
+
+Start the Flask app:
+bash
+python app.py
+
+Open browser and visit:
+👉 http://127.0.0.1:5000/
+
+✅ Default Login:
+Username: admin
+
+Password: 1234
+
